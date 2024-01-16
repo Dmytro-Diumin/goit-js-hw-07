@@ -27,6 +27,10 @@ h1, #name-output {
     border: 1px solid #808080;
 }
 
+#name-input:hover {
+    border: 1px solid #000000;
+}
+
 #name-input::placeholder {
     font-family: Montserrat;
     font-size: 16px;

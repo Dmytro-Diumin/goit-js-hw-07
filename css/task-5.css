@@ -22,6 +22,10 @@ button.change-color {
     border: none;
 }
 
+button:hover {
+    background: #6C8CFF;
+}
+
 .widget {
     padding: 100px 88px 100px 88px;
 }
